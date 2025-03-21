@@ -1,3 +1,3 @@
 # software.gd
-my first github project
-author- Gaurav Dumre
+This is my first github Repository
+Author- Gaurav Dumre
